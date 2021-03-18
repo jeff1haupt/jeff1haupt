@@ -1,4 +1,4 @@
-![GitHub Header](https://user-images.githubusercontent.com/66330433/111673111-04a93c00-87f1-11eb-839f-6586c39b1a9d.png)
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/66330433/111683584-0f1d0300-87fc-11eb-993d-0365f32e6683.png)
 
 
 
