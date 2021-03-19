@@ -16,9 +16,22 @@ Simplifirm - a client management system geared towards solo-practice attorneys t
 
 ![shields](https://img.shields.io/badge/frontend-Bootstrap-important)  ![shields](https://img.shields.io/badge/frontend-React-critical)  ![shields](https://img.shields.io/badge/Spring-Sring%20Boot-yellowgreen)
 
+Personal Portfolio - Nothing more than Bootstrap, HTML, CSS, JavaScript, and a couple of simple libraries to showcase my projects to the world
 
+![shields](https://img.shields.io/badge/frontend-Bootstrap-important)  
 
-- 🌱 I’m currently learning ...
+Restaurant Website Rebuild - Taking on a website rebuild for a local restaurant.  The main goal is to create a responsive design and to set up a connection to a third-party API for online ordering for carryout orders.  
+
+![shields](https://img.shields.io/badge/frontend-Bootstrap-important)  ![shields](https://img.shields.io/badge/frontend-React-critical)  
+
+Backend Code Walkthroughs for students enrolled in a Java/MySQL/Spring Boot program.  The curriculum is being redeveloped and there are several new sections where students are walking through developing an app with the video.  Building out that code for student reference as needed. 
+
+![shields](https://img.shields.io/badge/languages-Java-yellow)  ![shields](https://img.shields.io/badge/frontend-React-critical)  ![shields](https://img.shields.io/badge/Spring-Sring%20Boot-yellowgreen)  ![shields](https://img.shields.io/badge/data-MySQL-blue)  ![shields](https://img.shields.io/badge/data-Hibernate-9cf)
+
+## I’m currently learning ...
+
+!![shields](https://img.shields.io/badge/frontend-Bootstrap-important)  ![shields](https://img.shields.io/badge/frontend-React-critical)  [shields](https://img.shields.io/badge/backend-Node-yellow)  ![shields](https://img.shields.io/badge/data-MongoDB-blue)  ![shields](https://img.shields.io/badge/Data-Python-brightgreen)  ![shields](https://img.shields.io/badge/cloud-AWS-informational)  
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
