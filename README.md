@@ -12,6 +12,12 @@ A Spring Boot and Thymeleaf project to collect customer information and store it
 
 ![shields](https://img.shields.io/github/last-commit/jeff1haupt/FormSubmission)  ![shields](https://img.shields.io/badge/Spring-Thymeleaf-brightgreen)  ![shields](https://img.shields.io/badge/Spring-Sring%20Boot-yellowgreen)  ![shields](https://img.shields.io/badge/data-MySQL-blue)  ![shields](https://img.shields.io/badge/data-Hibernate-9cf)
 
+Simplifirm - a client management system geared towards solo-practice attorneys that simplifies client management systems to the needs of a solo-practitioner.  The backend portion of the project is built with Spring Boot and MySQL.  The frontend is currently in development and will utilize BootStrap and React to connect the frontend to the REST API.  
+
+![shields](https://img.shields.io/badge/frontend-Bootstrap-important)  ![shields](https://img.shields.io/badge/frontend-React-critical)  ![shields](https://img.shields.io/badge/Spring-Sring%20Boot-yellowgreen)
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
