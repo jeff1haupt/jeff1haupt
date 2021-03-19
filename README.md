@@ -39,5 +39,5 @@ If you are a student in the Promineo Tech backend program, feel free to ask me a
 
 ## 📫 How to reach me: ...
 
-You can contact me by email, on LinkedIn, or Twitter.
+You can contact me by email, on https://www.linkedin.com/in/jefferyhaupt/, or Twitter.
 -->
