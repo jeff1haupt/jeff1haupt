@@ -10,7 +10,7 @@ Check out what I know, what I am working on, and what I am trying to learn below
 
 A Spring Boot and Thymeleaf project to collect customer information and store it into a MySQL database, along with statistics related to the submission 
 
-https://img.shields.io/github/last-commit/jeff1haupt/FormSubmission
+![shields](https://img.shields.io/github/last-commit/jeff1haupt/FormSubmission)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
