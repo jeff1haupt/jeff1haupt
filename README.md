@@ -1,8 +1,6 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/66330433/111683584-0f1d0300-87fc-11eb-993d-0365f32e6683.png)
 
-Throughout the years, I have taken an interest in a variety of computer languages.  From my time in my undergraduate studies when I learned C++ and Visual Basic, to my self-taught years of learning HTML, CSS, and JavaScript during the "browser wars" years.  This has led me to a place where I have two different, but related roles. First, I recently accepted a full-time position with the City of South Bend to be an Application Developer.  When I am not doing that, I am working as a Curriculum Specialist with Promineo Tech.  
-
-Outside of my work with the City of South Bend and as a Spring Boot/ Java Curriculum Specialist with Promineo Tech, I am working on a few personal projects that are listed below in addition to a few freelance projects that are geared more towards the front-end side of things.  
+Throughout the years, I have taken an interest in a variety of computer languages.  From my time in my undergraduate studies when I learned C++ and Visual Basic, to my self-taught years of learning HTML, CSS, and JavaScript during the "browser wars" years.  This has led me to a place where I am now and that is as a manager of a small team of developers for the City of South Bend. The cool thing about that role is the ability to not be stuck in one framework or one area of development. We get to build a number of small projects that use everything from T-SQL to Python to JavaScript and support a number of frameworks and libraries for each language. 
 
 Check out what I know, what I am working on, and what I am trying to learn below
 
