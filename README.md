@@ -6,7 +6,11 @@ Check out what I know, what I am working on, and what I am trying to learn below
 
 ## I’m currently working on ...
 
-A Spring Boot and Thymeleaf project to collect customer information and store it into a MySQL database, along with statistics related to the submission 
+### The boring stuff 
+- Data migration for switching enterprise services for our Code Enforcement Department ![shields](https://img.shields.io/badge/Python-blue)
+- 
+The fun stuff - building out an Copilot Agent that utilizes Azure AI Search Indexers and Copilot Actions to call APIs from different systems to increase the Agent's abilities 
+
 
 ![shields](https://img.shields.io/github/last-commit/jeff1haupt/FormSubmission)  ![shields](https://img.shields.io/badge/Spring-Thymeleaf-brightgreen)  ![shields](https://img.shields.io/badge/Spring-Sring%20Boot-yellowgreen)  ![shields](https://img.shields.io/badge/data-MySQL-blue)  ![shields](https://img.shields.io/badge/data-Hibernate-9cf)
 
