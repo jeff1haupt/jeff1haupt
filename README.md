@@ -10,8 +10,10 @@ Check out what I know, what I am working on, and what I am trying to learn below
 - Data cleaning and migration for switching enterprise services for our Code Enforcement Department
 - ![shields](https://img.shields.io/badge/ETL-Python-8AA29E) ![shields](https://img.shields.io/badge/ETL-Pandas-686963) 
 - Guiding two members of the development team on building an API based interface between an enterprise system and Smartsheets for payment processing
-- ![shields](https://img.shields.io/badge/Programming-JavaScript-F9DF74) ![shields](https://img.shields.io/badge/Cloud-Azure_Functions-F9DF74) 
-The fun stuff - building out an Copilot Agent that utilizes Azure AI Search Indexers and Copilot Actions to call APIs from different systems to increase the Agent's abilities 
+- ![shields](https://img.shields.io/badge/Programming-JavaScript-F9DF74) ![shields](https://img.shields.io/badge/Cloud-Azure_Functions-EDAE49) 
+### The fun stuff 
+- building Copilot Agent that utilizes Azure AI Search Indexers and Copilot Actions to call APIs from different systems to increase the Agent's abilities
+- ![shields](https://img.shields.io/badge/AI-Copilot_Studio-8D3B72) ![shields](https://img.shields.io/badge/AI-Azure_Foundry-8A7090) 
 
 
 ![shields](https://img.shields.io/github/last-commit/jeff1haupt/FormSubmission)  ![shields](https://img.shields.io/badge/Spring-Thymeleaf-brightgreen)  ![shields](https://img.shields.io/badge/Spring-Sring%20Boot-yellowgreen)  ![shields](https://img.shields.io/badge/data-MySQL-blue)  ![shields](https://img.shields.io/badge/data-Hibernate-9cf)
