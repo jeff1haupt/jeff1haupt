@@ -8,7 +8,7 @@ Check out what I know, what I am working on, and what I am trying to learn below
 
 ### The everyday stuff 
 - Data migration for switching enterprise services for our Code Enforcement Department
-- ![shields](https://img.shields.io/badge/ETL-Python-blue) ![shields](https://img.shields.io/badge/ETL-Pandas-9cf) 
+- ![shields](https://img.shields.io/badge/ETL-Python-8AA29E) ![shields](https://img.shields.io/badge/ETL-Pandas-686963) 
 - 
 The fun stuff - building out an Copilot Agent that utilizes Azure AI Search Indexers and Copilot Actions to call APIs from different systems to increase the Agent's abilities 
 
