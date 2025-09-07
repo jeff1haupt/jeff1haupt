@@ -10,8 +10,8 @@ Check out what I know, what I am working on, and what I am trying to learn below
 - Data cleaning and migration for switching enterprise services for our Code Enforcement Department
   
   > ![shields](https://img.shields.io/badge/ETL-Python-8AA29E) &nbsp;&nbsp;&nbsp; ![shields](https://img.shields.io/badge/ETL-Pandas-686963) 
-- Guiding two members of the development team on building an API based interface between an enterprise system and Smartsheets for payment processing
--- Tech used: ![shields](https://img.shields.io/badge/Programming-JavaScript-F9DF74) ![shields](https://img.shields.io/badge/Cloud-Azure_Functions-EDAE49) 
+- Directing two members of the development team on building an API based interface between an enterprise system and Smartsheets for payment processing
+  > ![shields](https://img.shields.io/badge/Programming-JavaScript-721817)  &nbsp;&nbsp;&nbsp; ![shields](https://img.shields.io/badge/Cloud-Azure_Functions-FA9F42)  &nbsp;&nbsp;&nbsp; ![shields](https://img.shields.io/badge/Concepts-REST_API-2B4162)
 ### The fun stuff 
 - building Copilot Agent that utilizes Azure AI Search Indexers and Copilot Actions to call APIs from different systems to increase the Agent's abilities
 - ![shields](https://img.shields.io/badge/AI-Copilot_Studio-8D3B72) ![shields](https://img.shields.io/badge/AI-Azure_Foundry-8A7090) 
