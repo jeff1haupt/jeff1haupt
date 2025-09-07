@@ -16,6 +16,10 @@ Check out what I know, what I am working on, and what I am trying to learn below
 - building Copilot Agent that utilizes Azure AI Search Indexers and Copilot Actions to call APIs from different systems to increase the Agent's abilities
 - ![shields](https://img.shields.io/badge/AI-Copilot_Studio-8D3B72) ![shields](https://img.shields.io/badge/AI-Azure_Foundry-8A7090) 
 
+## Things I've built (or at least was part of a team that built it)
+### Outlook to Azure DevOps plugin 
+- In order to better track the team's work, I built a sideloaded Outlook plugin that takes data from an Outlook email and allows a person to turn that into a Azure DevOps work item.
+- Check out the public repo here: 
 
 ![shields](https://img.shields.io/github/last-commit/jeff1haupt/FormSubmission)  ![shields](https://img.shields.io/badge/Spring-Thymeleaf-brightgreen)  ![shields](https://img.shields.io/badge/Spring-Sring%20Boot-yellowgreen)  ![shields](https://img.shields.io/badge/data-MySQL-blue)  ![shields](https://img.shields.io/badge/data-Hibernate-9cf)
 
