@@ -7,8 +7,7 @@ Check out what I know, what I am working on, and what I am trying to learn below
 ## I’m currently working on ...
 
 ### The everyday stuff 
-- Data cleaning and migration for switching enterprise services for our Code Enforcement Department
--- Tech used: ![shields](https://img.shields.io/badge/ETL-Python-8AA29E) ![shields](https://img.shields.io/badge/ETL-Pandas-686963) 
+- Data cleaning and migration for switching enterprise services for our Code Enforcement Department **BUILT WITH** ![shields](https://img.shields.io/badge/ETL-Python-8AA29E) ![shields](https://img.shields.io/badge/ETL-Pandas-686963) 
 - Guiding two members of the development team on building an API based interface between an enterprise system and Smartsheets for payment processing
 -- Tech used: ![shields](https://img.shields.io/badge/Programming-JavaScript-F9DF74) ![shields](https://img.shields.io/badge/Cloud-Azure_Functions-EDAE49) 
 ### The fun stuff 
